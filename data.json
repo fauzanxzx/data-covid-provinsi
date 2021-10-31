@@ -32,6 +32,5 @@
   { "fid": 7, "kodeProvi": 17, "provinsi": "Bengkulu", "kasusPosi": 6630, "kasusSemb": 5743, "kasusMeni": 172 },
   { "fid": 30, "kodeProvi": 76, "provinsi": "Sulawesi Barat", "kasusPosi": 5443, "kasusSemb": 5251, "kasusMeni": 118 },
   { "fid": 29, "kodeProvi": 75, "provinsi": "Gorontalo", "kasusPosi": 5355, "kasusSemb": 4990, "kasusMeni": 161 },
-  { "fid": 32, "kodeProvi": 82, "provinsi": "Maluku Utara", "kasusPosi": 4414, "kasusSemb": 4117, "kasusMeni": 120 },
-  { "fid": 35, "kodeProvi": 0, "provinsi": "Indonesia", "kasusPosi": 0, "kasusSemb": 0, "kasusMeni": 0 }
+  { "fid": 32, "kodeProvi": 82, "provinsi": "Maluku Utara", "kasusPosi": 4414, "kasusSemb": 4117, "kasusMeni": 120 }
 ]
